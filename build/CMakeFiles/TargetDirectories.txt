@@ -1,0 +1,3 @@
+/home/jh/work/webserver/my_webserver/webserver/build/CMakeFiles/a.out.dir
+/home/jh/work/webserver/my_webserver/webserver/build/CMakeFiles/edit_cache.dir
+/home/jh/work/webserver/my_webserver/webserver/build/CMakeFiles/rebuild_cache.dir
